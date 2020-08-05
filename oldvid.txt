@@ -1,0 +1,144 @@
+ <div class="container2" id="car" style="display: none">
+        <div class="card" data-aos="zoom-out-up" data-aos-duration="500">
+            <div class="face face1" id="vid1.1">
+                <iframe height="100%"
+                        src="https://www.youtube.com/embed/HgWGQbALPy4?autoplay=1" style="border: 0">
+                </iframe>
+                <section  class="demo section07">
+                    <a class="infoclick" onclick="btntst('vid1.1','vid1.2','dubtn1.1'); return false"><span id="dubtn1.1"></span></a>
+                </section>
+            </div>
+            <div class="face face2" id="vid1.2">
+                <div class="content2">
+                   <!-- For links if needed <h3>
+                        <a href="" target="_blank"></a>
+                    </h3>-->
+                    <p class="cardtext">This is my most viewed car video</p>
+                </div>
+            </div>
+        </div>
+        <div class="card" data-aos="zoom-out-up" data-aos-duration="1000">
+            <div class="face face1" id="vid2.1">
+                    <iframe height="100%"
+                            src="https://www.youtube.com/embed/HZ8W9CgiZYA?autoplay=1" style="border: 0">
+                    </iframe>
+                <section  class="demo section07">
+                    <a class="infoclick" onclick="btntst('vid2.1','vid2.2','dubtn1.2'); return false"><span id="dubtn1.2"></span></a>
+                </section>
+            </div>
+            <div class="face face2" id="vid2.2">
+                <div class="content2">
+                    <p class="cardtext">I am videographer of "AvtoStatus" which is most famous car examiner show in Azerbaijan.</p>
+                </div>
+            </div>
+        </div>
+        <div class="card" data-aos="zoom-out-up" data-aos-duration="1500">
+            <div class="face face1" id="vid3.1">
+                <iframe height="100%"
+                        src="https://www.youtube.com/embed/_WFFXAcCmGI?autoplay=1" style="border: 0">
+                </iframe>
+                <section  class="demo section07">
+                    <a class="infoclick" onclick="btntst('vid3.1','vid3.2','dubtn1.3'); return false"><span id="dubtn1.3"></span></a>
+                </section>
+            </div>
+            <div class="face face2" id="vid3.2">
+                <div class="content2">
+                    <p class="cardtext">One of foreign car video shooted by me.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container2" id="music" style="display: none">
+        <div class="card">
+            <div class="face face1" id="vid4.1">
+                <iframe height="100%"
+                        src="https://www.youtube.com/embed/vF17rJXWQ0s?autoplay=1" style="border: 0">
+                </iframe>
+                <section  class="demo section07">
+                    <a class="infoclick" onclick="btntst('vid4.1','vid4.2','dubtn2.1'); return false"><span id="dubtn2.1"></span></a>
+                </section>
+            </div>
+            <div class="face face2" id="vid4.2">
+                <div class="content2">
+                    <p class="cardtext">Almost all videos of Retro have been taken by me.</p>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="face face1" id="vid5.1">
+                <iframe height="100%"
+                        src="https://www.youtube.com/embed/fOOpi51B1lQ?autoplay=1" style="border: 0">
+                </iframe>
+                <section  class="demo section07">
+                    <a class="infoclick" onclick="btntst('vid5.1','vid5.2','dubtn2.2'); return false"><span id="dubtn2.2"></span></a>
+                </section>
+            </div>
+            <div class="face face2" id="vid5.2">
+                <div class="content2">
+                    <p class="cardtext">Most viewed woman rapper video in Azerbaijan.</p>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="face face1" id="vid6.1">
+                <iframe height="100%"
+                        src="https://www.youtube.com/embed/F91Riw44Gs4?autoplay=1" style="border: 0">
+                </iframe>
+                <section  class="demo section07">
+                    <a class="infoclick" onclick="btntst('vid6.1','vid6.2','dubtn2.3'); return false"><span id="dubtn2.3"></span></a>
+                </section>
+            </div>
+            <div class="face face2" id="vid6.2">
+                <div class="content2">
+                    <p class="cardtext">Another music video.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container2" id="othr" style="display: none">
+        <div class="card">
+            <div class="face face1" id="vid7.1">
+                <iframe height="100%"
+                        src="https://www.youtube.com/embed/r4kcOjtHEXk?autoplay=1" style="border: 0">
+                </iframe>
+                <section  class="demo section07">
+                    <a class="infoclick" onclick="btntst('vid7.1','vid7.2','dubtn3.1'); return false"><span id="dubtn3.1"></span></a>
+                </section>
+            </div>
+            <div class="face face2" id="vid7.2">
+                <div class="content2">
+                    <p class="cardtext">Show that exams Azerbaijani movies.</p>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="face face1" id="vid8.1">
+                <iframe height="100%"
+                        src="https://www.youtube.com/embed/XrstkBgIDfA?autoplay=1" style="border: 0">
+                </iframe>
+                <section  class="demo section07">
+                    <a class="infoclick" onclick="btntst('vid8.1','vid8.2','dubtn3.2'); return false"><span id="dubtn3.2"></span></a>
+                </section>
+            </div>
+            <div class="face face2" id="vid8.2">
+                <div class="content2">
+                    <p class="cardtext">Very famous show where you dont have to laugh at guests jokes.</p>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="face face1" id="vid9.1">
+                <iframe height="100%"
+                        src="https://www.youtube.com/embed/l55RvyiOAh0?autoplay=1" style="border: 0">
+                </iframe>
+                <section  class="demo section07">
+                    <a class="infoclick" onclick="btntst('vid9.1','vid9.2','dubtn3.3'); return false"><span id="dubtn3.3"></span></a>
+                </section>
+            </div>
+            <div class="face face2" id="vid9.2">
+                <div class="content2">
+                    <p class="cardtext">Me examining camera stuff ;)</p>
+                </div>
+            </div>
+        </div>
+    </div>
